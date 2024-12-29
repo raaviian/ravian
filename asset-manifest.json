@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ravian/static/css/main.aead0ed8.css",
-    "main.js": "/ravian/static/js/main.26f9e5f2.js",
+    "main.css": "/ravian/static/css/main.55cad87e.css",
+    "main.js": "/ravian/static/js/main.2a38a3c7.js",
     "static/media/profilepic.jpg": "/ravian/static/media/profilepic.d3afdb9b58c2ac5fd929.jpg",
     "index.html": "/ravian/index.html",
-    "main.aead0ed8.css.map": "/ravian/static/css/main.aead0ed8.css.map",
-    "main.26f9e5f2.js.map": "/ravian/static/js/main.26f9e5f2.js.map"
+    "main.55cad87e.css.map": "/ravian/static/css/main.55cad87e.css.map",
+    "main.2a38a3c7.js.map": "/ravian/static/js/main.2a38a3c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.aead0ed8.css",
-    "static/js/main.26f9e5f2.js"
+    "static/css/main.55cad87e.css",
+    "static/js/main.2a38a3c7.js"
   ]
 }
