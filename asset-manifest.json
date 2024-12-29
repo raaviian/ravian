@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ravian/static/css/main.aead0ed8.css",
+    "main.js": "/ravian/static/js/main.26f9e5f2.js",
+    "static/media/profilepic.jpg": "/ravian/static/media/profilepic.d3afdb9b58c2ac5fd929.jpg",
+    "index.html": "/ravian/index.html",
+    "main.aead0ed8.css.map": "/ravian/static/css/main.aead0ed8.css.map",
+    "main.26f9e5f2.js.map": "/ravian/static/js/main.26f9e5f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aead0ed8.css",
+    "static/js/main.26f9e5f2.js"
+  ]
+}
